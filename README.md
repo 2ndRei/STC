@@ -15,19 +15,19 @@ DATASET_PATH = '.\data_v_7_stc'<br>
 
 Код разрабатывался на платформе Windows 7/10 при помощи Anaconda 3 (https://conda.io/docs/user-guide/install/windows.html) в Jupyter notebook.<br>
 Использовались следующие пакеты (для <b>Solution.ipynb</b>):<br>
-CPython 3.6.3
-IPython 6.1.0
+CPython 3.6.3<br>
+IPython 6.1.0<br>
 
-numpy 1.12.1
-pandas 0.22.0
-scipy 1.0.0
-sklearn 0.19.1
-os n
+numpy 1.12.1<br>
+pandas 0.22.0<br>
+scipy 1.0.0<br>
+sklearn 0.19.1<br>
+os n<br>
 
-compiler   : MSC v.1900 64 bit (AMD64)
-system     : Windows
-release    : 10
-machine    : AMD64
-processor  : Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
-CPU cores  : 8
-interpreter: 64bit
+compiler   : MSC v.1900 64 bit (AMD64)<br>
+system     : Windows<br>
+release    : 10<br>
+machine    : AMD64<br>
+processor  : Intel64 Family 6 Model 58 Stepping 9, GenuineIntel<br>
+CPU cores  : 8<br>
+interpreter: 64bit<br>
